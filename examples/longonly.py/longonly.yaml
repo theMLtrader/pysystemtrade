@@ -1,3 +1,6 @@
+
+## folder named as .py will trigger an error in setup.py
+
 #YAML
 #
 # Raw data
